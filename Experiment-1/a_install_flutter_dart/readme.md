@@ -9,5 +9,8 @@ To install Flutter and Dart SDK and verify the installation.
 3. Install Dart SDK (it comes bundled with Flutter).
 4. Run the command to verify installation: flutter doctor
 5. Ensure all checks are green!
-## Output
-a_install_flutter_dart\flutter_doctor_output.png
+
+### Output:
+Click the image to enlarge 👇  
+
+[<img src="flutter_doctor_output.png" width="300"/>](flutter_doctor_output.png)
