@@ -1,11 +1,3 @@
-
----
-
-## 🧩 **Experiment 6(b): Apply Styling Using Themes and Custom Styles**
-
-📄 Save this as  
-`Experiment-6/b_themes_and_styles/readme.md`
-
 # Experiment 6(b): Apply Styling Using Themes and Custom Styles
 
 ## 🎯 Objective
