@@ -20,7 +20,9 @@ void main() {
   print('This is $name experiment.');
 }
 
-## To run the program use command: dart run main.dart
-## Output 
+### To run the program use command: dart run main.dart 
 
--> b_dart_basics\dart_basics.png
+### Output:
+Click the image to enlarge 👇  
+
+[<img src="dart_basics.png" width="300"/>](dart_basics.png)
